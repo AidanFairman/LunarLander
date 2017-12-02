@@ -1,0 +1,87 @@
+
+#----------------------------- Global Properties ----------------------------#
+
+/outputDir:bin/$(Platform)
+/intermediateDir:obj/$(Platform)
+/platform:Windows
+/config:
+/profile:Reach
+/compress:False
+
+#-------------------------------- References --------------------------------#
+
+
+#---------------------------------- Content ---------------------------------#
+
+#begin Font.spritefont
+/importer:FontDescriptionImporter
+/processor:FontDescriptionProcessor
+/processorParam:TextureFormat=Compressed
+/build:Font.spritefont
+
+#begin LanderExplosionSound.wav
+/importer:WavImporter
+/processor:SoundEffectProcessor
+/processorParam:Quality=Best
+/build:LanderExplosionSound.wav
+
+#begin LanderVictorySound.wav
+/importer:WavImporter
+/processor:SoundEffectProcessor
+/processorParam:Quality=Best
+/build:LanderVictorySound.wav
+
+#begin darkPlanet.bmp
+/importer:TextureImporter
+/processor:TextureProcessor
+/processorParam:ColorKeyColor=255,0,255,255
+/processorParam:ColorKeyEnabled=True
+/processorParam:GenerateMipmaps=False
+/processorParam:PremultiplyAlpha=True
+/processorParam:ResizeToPowerOfTwo=False
+/processorParam:MakeSquare=False
+/processorParam:TextureFormat=Color
+/build:darkPlanet.bmp
+
+#begin LanderCan.txt
+/copy:LanderCan.txt
+
+#begin LegR.txt
+/copy:LegR.txt
+
+#begin ManCap.txt
+/copy:ManCap.txt
+
+#begin RocketThrust.wav
+/importer:WavImporter
+/processor:SoundEffectProcessor
+/processorParam:Quality=Best
+/build:RocketThrust.wav
+
+#begin Thrust.txt
+/copy:Thrust.txt
+
+#begin Thruster.txt
+/copy:Thruster.txt
+
+#begin alphabet.txt
+/copy:alphabet.txt
+
+#begin Terrain1.txt
+/copy:Terrain1.txt
+
+#begin Terrain1Pads.txt
+/copy:Terrain1Pads.txt
+
+#begin Terrain0.txt
+/copy:Terrain0.txt
+
+#begin Terrain0Pads.txt
+/copy:Terrain0Pads.txt
+
+#begin Terrain2.txt
+/copy:Terrain2.txt
+
+#begin Terrain2Pads.txt
+/copy:Terrain2Pads.txt
+

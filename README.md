@@ -9,21 +9,3 @@ Players must land upright on the green pads at a slow enough rate to not be dest
 ![Image](/Screenshot.png)
 
 There is a runnable executable in the Runnable folder. It does require the surrounding files to run, so please download the entire 'Runnable' folder, found [here](https://github.com/AidanFairman/LunarLander/tree/master/Runnable)
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
